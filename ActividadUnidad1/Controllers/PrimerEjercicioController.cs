@@ -17,6 +17,7 @@ namespace ActividadUnidad1.Controllers
             return View();
         }
 
+<<<<<<< HEAD
         // GET: PrimerEjercicioController/Details/5
         public ActionResult Details(int id)
         {
@@ -85,5 +86,7 @@ namespace ActividadUnidad1.Controllers
                 return View();
             }
         }
+=======
+>>>>>>>  primer ejercicio
     }
 }
